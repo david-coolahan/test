@@ -26,11 +26,11 @@ Microsoft Entra join and registration settings
 Item 	Value
 Users may join devices to Microsoft Entra 	All
 Users may register their devices with Microsoft Entra 	All
-Require Multifactor Authentication to register or join devices with Microsoft Entra 	No
+Require Multifactor Authentication to register or join devices with Microsoft Entra 	Yes
 Maximum number of devices per user 	Unlimited
 Local administrator settings
 Item 	Value
-Global administrator role is added as local administrator on the device during Microsoft Entra join (Preview) 	No
+Global administrator role is added as local administrator on the device during Microsoft Entra join (Preview) 	Yes
 Registering user is added as local administrator on the device during Microsoft Entra join (Preview) 	None
 Enable Microsoft Entra Local Administrator Password Solution (LAPS) 	Yes
 Other settings
