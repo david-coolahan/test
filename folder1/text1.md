@@ -31,16 +31,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 | Assigned roles  |  Global Administrator |
 | Groups          | `<CA exclude groups>` |
 
-### Break glass second account
 
-| Item            |                 Value |
-| --------------- | --------------------: |
-| Display name    |         Break Glass 2 |
-| User type       |                Member |
-| Account enabled |               Checked |
-| Usage location  |             Australia |
-| Assigned roles  |  Global Administrator |
-| Groups          | `<CA exclude groups>` |
 
 ### Related information
 
